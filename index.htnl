@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html=lang="ja">
+<head>
+<title>おすすめ曲</title>
+<meta charset="UTF-8">
+</head>
+<body>
+  <h1>目次</h1>
+  <ul>
+    <li><a href="#kyoku">おすすめ曲</a></li>
+    <li><a href="#yo">おすすめ曲に出てきたアーティスト</a></li>
+    <li><a href="#1~10">1位～10位</a>
+  <h1 id="kyoku">おすすめ曲ランキング</h1>
+  <h2 id="1~10"><p><em>１位</em><a href="https://www.youtube.com/watch?v=KTZ-y85Erus" target="_blank">だから僕は音楽を辞めた</a></p></h2>
+  <img src="ヨルシカ.jpg" alt="ヨルシカ" width="200" height="200">
+  <h2><p><em>２位</em><a href="https://www.youtube.com/watch?v=I88PrE-KUPk" target="_blank">MILABO</a></p></h2>
+    <img src="MILABO.jpg" width="200" height="200">
+  <h2><p><em>３位</em><a href="https://www.youtube.com/watch?v=hxSg2Ioz3LM" target="_blank">ヒバナ</a></p></h2>
+  <img src="hibana.jpg" width="200" height="200">
+  <h2><p><em>４位</em><a href="https://www.youtube.com/watch?v=GJI4Gv7NbmE" target="_blank">秒針を噛む</a></p></h2>
+  <img src="kamu.png" width="200" height="200">
+  <h2><p><em>５位</em><a href="https://www.youtube.com/watch?v=8oBV3jPTW4s&t=59s" target="_blank">ロストワンの号哭</a></p></h2>
+  <img src="rosuto.jpeg" width="200" height="200">
+  <h2><p><em>６位</em><a href="https://www.youtube.com/watch?v=258qUAI7rck" target="_blank">正しくなれない</a></p><h2>
+    <img src="tada.webp" width="200" height="200">
+  <h2><p><em>７位</em><a href="https://www.youtube.com/watch?v=9lVPAWLWtWc" target="_blank">花に亡霊</a></p></h2>
+  <img src="花.jpg" width="200" height="200">
+    <h2><p><em>８位</em><a href="https://www.youtube.com/watch?v=4DxL6IKmXx4" target="_blank">炎</a></p></h2>
+  <img src="炎.jpeg" width="200" height="200">
+  <h2><p><em>９位</em><a href="https://www.youtube.com/watch?v=Qp3b-RXtz4w" target="_blank">うっせぇわ</a></p></h2>
+    <img src="artwork-440x440.jpg" width="200" height="200">
+  <h2><p><em>１０位</em><a href="https://www.youtube.com/watch?v=hZFBTnzKa54" target="_blank">だれかの心臓になれたなら</a></p></h2>
+  <img src="心臓.jpeg" width="200" height="200">
+<h2><p><em>11位</em>
+ <h2><p><em>12位</em>
+ <h2><p><em>13位</em>
+ <h2><p><em>14位</em>
+ <h2><p><em>15位</em>
+ <h2><p><em>16位</em>
+ <h2><p><em>17位</em>
+ <h2><p><em>18位</em>
+ <h2><p><em>19位</em>
+ <h2><p><em>20位</em>
+ <h2><p><em>21位</em>
+ <h2><p><em>22位</em>
+ <h2><p><em>23位</em>
+ <h1 id="yo"><p>おすすめ曲に出てきたアーティスト</p></h1>
